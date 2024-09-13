@@ -5,8 +5,11 @@ I am a quantitative researcher specializing in volatility modeling, machine lear
 Here are a list of published papers:
 
 [The quintic Ornstein-Uhlenbeck model for joint SPX and VIX calibration (Risk Magazine, 2023)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4308677)
+
 [Joint SPX-VIX calibration with Gaussian polynomial volatility models: deep pricing with quantization hints](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4292544)
+
 [Volatility models in practice: Rough, Path-dependent or Markovian?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4684016)
+
 [Fourier-Laplace Transforms in Polynomial Ornstein-Uhlenbeck Volatility Models](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4816314)
 
 Feel free to explore my repositories and connect with me on [LinkedIn](https://www.linkedin.com/in/shaun-li-66a6582b/)
