@@ -12,7 +12,7 @@ Here are a list of published papers:
 
 [Fourier-Laplace Transforms in Polynomial Ornstein-Uhlenbeck Volatility Models (submitted to Finance and Stochastics, second round, major revision)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4816314) with [Python code implementation](https://github.com/shaunlinz02/fourier_laplace_transform_polynomial_ou)
 
-[Capturing Smile Dynamics with the Quintic Volatility Model: SPX, Skew-Stickiness Ratio and VIX](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5183298) with [Python code implementation]([https://github.com/shaunlinz02/fourier_laplace_transform_polynomial_ou](https://github.com/shaunlinz02/two_factor_quintic_ou))
+[Capturing Smile Dynamics with the Quintic Volatility Model: SPX, Skew-Stickiness Ratio and VIX](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5183298) with [Python code implementation](https://github.com/shaunlinz02/two_factor_quintic_ou)
 
 Feel free to explore my repositories and connect with me on [LinkedIn](https://www.linkedin.com/in/shaun-li-66a6582b/)
 
