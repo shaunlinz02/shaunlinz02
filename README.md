@@ -8,9 +8,9 @@ Here are a list of published papers:
 
 [Joint SPX-VIX calibration with Gaussian polynomial volatility models: deep pricing with quantization hints (Mathematical Finance, 2024)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4292544)
 
-[Volatility models in practice: Rough, Path-dependent or Markovian? (submitted to Mathematical Finance, second round, major revision)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4684016)
+[Volatility models in practice: Rough, Path-dependent or Markovian? (Mathematical Finance, 2025)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4684016)
 
-[Fourier-Laplace Transforms in Polynomial Ornstein-Uhlenbeck Volatility Models (submitted to Finance and Stochastics, second round, major revision)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4816314) with [Python code implementation](https://github.com/shaunlinz02/fourier_laplace_transform_polynomial_ou)
+[Fourier-Laplace Transforms in Polynomial Ornstein-Uhlenbeck Volatility Models (to appear in Finance and Stochastics)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4816314) with [Python code implementation](https://github.com/shaunlinz02/fourier_laplace_transform_polynomial_ou)
 
 [Capturing Smile Dynamics with the Quintic Volatility Model: SPX, Skew-Stickiness Ratio and VIX](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5183298) with [Python code implementation](https://github.com/shaunlinz02/two_factor_quintic_ou)
 
