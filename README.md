@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a quantitative researcher specializing in volatility modeling, machine learning, and numerical methods in quantitative finance.
+I am a quantitative researcher/analyst specializing in volatility modeling, machine learning, and numerical methods in quantitative finance.
 
 Here are a list of published papers:
 
